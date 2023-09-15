@@ -1,0 +1,7 @@
+.banner {
+    height: 40%;
+    width: 100%;
+    object-fit: cover;
+    margin: 20px 0;
+    transform: rotateY(180deg);
+  }
